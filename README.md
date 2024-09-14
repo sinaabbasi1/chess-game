@@ -1,5 +1,5 @@
-# chess-game
-A Java-based Chess game with a graphical user interface, built using Swing.
+# &#9816; Chess Game
+A Java-based chess game with a graphical user interface, built using Swing.
 
 This is a Chess game implemented in Java 8 using OpenJDK version 1.8.0_292. The game features a graphical user interface (GUI) and allows players to compete in a standard chess match. The GUI is built using Java Swing.
 
@@ -18,7 +18,25 @@ This is a Chess game implemented in Java 8 using OpenJDK version 1.8.0_292. The 
 
 ## Screenshots
 
+| ![Startup Screen](./screenshots/Pawn%20Promotion.png) | 
+|:--:| 
+| *Startup Screen* |
 
+| ![Game Board](./screenshots/Game%20Board.png) | 
+|:--:| 
+| *Game Board* |
+
+| ![Piece Selection](./screenshots/Pawn%20Promotion.png) | 
+|:--:| 
+| *Piece Selection* |
+
+| ![Check Situation](./screenshots/Check.png) | 
+|:--:| 
+| *Check Situation* |
+
+| ![Pawn Promotion](./screenshots/Pawn%20Promotion.png) | 
+|:--:| 
+| *Pawn Promotion* |
 
 ## Contributing
 
