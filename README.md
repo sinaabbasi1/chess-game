@@ -5,7 +5,7 @@ This is a Chess game implemented in Java 8 using OpenJDK version 1.8.0_292. The 
 
 ## Getting started
 
-1. **Clone the repository:** <br /> `git clone https://github.com/your-username/java-chess-game.git`
+1. **Clone the repository:** <br /> `git clone https://github.com/sinaabbasi1/chess-game.git`
 2. **Compile the project:** If you're using the command line, navigate to the `src/` directory and compile the `.java` files: <br />
 `javac Frame.java`
 3. **Run the game:** <br />
