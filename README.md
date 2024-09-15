@@ -1,5 +1,5 @@
 # &#9816; Chess Game
-This is a Chess game implemented in Java. The game features a graphical user interface (GUI) and allows players to compete in a standard chess match. The GUI is built using Java Swing.
+This is a chess game implemented in Java. The game features a graphical user interface (GUI) and allows players to compete in a standard chess match. The GUI is built using Java Swing.
 
 ## Getting started
 
