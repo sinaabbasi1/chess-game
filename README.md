@@ -1,15 +1,22 @@
 # &#9816; Chess Game
-A Java-based chess game with a graphical user interface, built using Swing.
-
-This is a Chess game implemented in Java 8 using OpenJDK version 1.8.0_292. The game features a graphical user interface (GUI) and allows players to compete in a standard chess match. The GUI is built using Java Swing.
+This is a Chess game implemented in Java. The game features a graphical user interface (GUI) and allows players to compete in a standard chess match. The GUI is built using Java Swing.
 
 ## Getting started
 
-1. **Clone the repository:** <br /> `git clone https://github.com/sinaabbasi1/chess-game.git`
+This game runs smoothly with OpenJDK version 1.8.0_292.
+
+1. **Clone the repository:** <br />
+```
+git clone https://github.com/sinaabbasi1/chess-game.git
+```
 2. **Compile the project:** If you're using the command line, navigate to the `src/` directory and compile the `.java` files: <br />
-`javac Frame.java`
+```
+javac Frame.java
+```
 3. **Run the game:** <br />
-`java Frame`
+```
+java Frame
+```
 
 ## Features
 - **Graphical User Interface (GUI):** Built with Java Swing components to visualize the chessboard and pieces.
@@ -44,4 +51,4 @@ Feel free to submit issues or pull requests if you find bugs or want to improve 
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
