@@ -25,7 +25,7 @@ java Frame
 
 ## Screenshots
 
-| ![Startup Screen](./screenshots/Pawn%20Promotion.png) | 
+| ![Startup Screen](./screenshots/Startup%20Screen.png) | 
 |:--:| 
 | *Startup Screen* |
 
@@ -33,7 +33,7 @@ java Frame
 |:--:| 
 | *Game Board* |
 
-| ![Piece Selection](./screenshots/Pawn%20Promotion.png) | 
+| ![Piece Selection](./screenshots/Piece%20Selection.png) | 
 |:--:| 
 | *Piece Selection* |
 
